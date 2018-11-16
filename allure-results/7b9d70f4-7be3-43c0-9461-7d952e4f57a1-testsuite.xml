@@ -1,0 +1,63 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1542200445350' stop='1542200462430'>
+    <name>Menu three main Add batch Test suite</name>
+    <title>Menu three main Add batch Test suite</title>
+    <test-cases>
+        <test-case start='1542200447514' status='passed' stop='1542200448550'>
+            <name>Verify menu page heading</name>
+            <title>Verify menu page heading</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1542200448550' status='passed' stop='1542200448568'>
+            <name>Verify menu page title</name>
+            <title>Verify menu page title</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1542200448568' status='passed' stop='1542200448700'>
+            <name>Verify navigation to main options screen </name>
+            <title>Verify navigation to main options screen </title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1542200448700' status='passed' stop='1542200448851'>
+            <name>Verify navigation to menu three main screen</name>
+            <title>Verify navigation to menu three main screen</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1542200448851' status='passed' stop='1542200456124'>
+            <name>Verify heading on menu three page</name>
+            <title>Verify heading on menu three page</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1542200456124' status='passed' stop='1542200456368'>
+            <name>Verify screen name on menu three page</name>
+            <title>Verify screen name on menu three page</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1542200456368' status='passed' stop='1542200456434'>
+            <name>Verify prescence of paragraph on menu three main page</name>
+            <title>Verify prescence of paragraph on menu three main page</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

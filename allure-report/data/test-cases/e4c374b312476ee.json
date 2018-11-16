@@ -1,0 +1,43 @@
+{
+  "uid" : "e4c374b312476ee",
+  "name" : "Verify menu page title",
+  "fullName" : "Menu three main Add batch Test suite.Verify menu page title",
+  "historyId" : "5ccb4265710e92e027b8f8b678911d71",
+  "time" : {
+    "start" : 1542199745451,
+    "stop" : 1542199745473,
+    "duration" : 22
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Menu three main Add batch Test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "Menu three main Add batch Test suite"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify menu page title"
+  }, {
+    "name" : "package",
+    "value" : "Menu three main Add batch Test suite"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e4c374b312476ee.json",
+  "parameterValues" : [ ]
+}

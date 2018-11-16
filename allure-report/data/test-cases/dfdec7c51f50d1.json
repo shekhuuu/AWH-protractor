@@ -1,0 +1,43 @@
+{
+  "uid" : "dfdec7c51f50d1",
+  "name" : "Verify empty submit on main page of menu three",
+  "fullName" : "Menu three main Add batch Test suite =>Field operations Test suite.Verify empty submit on main page of menu three",
+  "historyId" : "60ea5b022c6933435936c32ffee0f1b3",
+  "time" : {
+    "start" : 1542199753568,
+    "stop" : 1542199753591,
+    "duration" : 23
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Menu three main Add batch Test suite =>Field operations Test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "Menu three main Add batch Test suite =>Field operations Test suite"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify empty submit on main page of menu three"
+  }, {
+    "name" : "package",
+    "value" : "Menu three main Add batch Test suite =>Field operations Test suite"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "dfdec7c51f50d1.json",
+  "parameterValues" : [ ]
+}

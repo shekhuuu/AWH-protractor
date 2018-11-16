@@ -1,0 +1,90 @@
+{
+    "common":{
+        "pageheadingcss":"div.text-center>h4",
+        "continuebuttoncss":"button#continueButton",
+        "screenNamecss":"div.left-section>h5:first-child"
+    },
+
+    "mainpage":{
+        "EQmenucss":"div.menu-column:nth-child(2)>div:nth-child(2)>a>span"
+    },
+
+    "menupage":{
+        "Menutwolinkcss":"div#menu-handler>div:nth-child(2)>div:nth-child(2)>div:first-child>a",
+        "Menuthreelinkcss":"div#second-level>div:nth-child(2)>div:nth-child(2)>a"
+    },
+
+    "WorkplantEQ_display":{
+        "regioncodedropdowncss":"#awhRegionCode",
+        "selectregionDropdowncss":"select#awhRegionCode>option",
+        "gridpagenotwolinktxt":"2"
+    },
+
+    "WorkplantEQ_AddEQcode":{
+        "EnterEQcodecss":"#plantEquipmentCode"
+    },
+
+    "AddEQdetail":{
+        "typecodecss":"#equipmentTypeCode",
+        "centercss":"#centreCodeKey",
+        "EQleasorcss":"#equipmentLeasor",
+        "Filterbuttoncss":"[label='Filter']",
+        "orgnamecss":"th>input",
+        "leasorradiobtncss":"tbody.ui-table-tbody>tr>td:first-child",
+        "Segmentdrpcss":"#awhBuisnessSegment",
+        "Segmentdrpoptioncss":"#awhBuisnessSegment>option",
+        "Descriptiontxtcss":"#equipmentDescription",
+        "Readingdatecss":"fieldset>div:last-child>div>p-calendar>span>input",
+        "yesbuttoncss":"div[class='ng-trigger ng-trigger-animation ng-tns-c1-0 ui-dialog ui-confirmdialog ui-widget ui-widget-content ui-corner-all ui-shadow ng-star-inserted']>div:nth-child(3)>button:first-child",
+        "nobuttoncss":"div[class='ng-trigger ng-trigger-animation ng-tns-c1-0 ui-dialog ui-confirmdialog ui-widget ui-widget-content ui-corner-all ui-shadow ng-star-inserted']>div:nth-child(3)>button:last-child"
+    },
+
+    "WorkplantEQ_EditEQcode":{
+        "filtertypecodecss":"[placeholder='Code']",
+        "elementRadiobutton":"table.ui-table-scrollable-body-table>tbody>tr>td:first-child",
+        "editbuttontxt":"2=Edit"
+    },
+
+    "EditEQdetailed":{
+        "Descriptionfieldid":"equipmentDescription",
+        "leasemaxunitsid":"leaseMaxTotalUnits",
+        "yesbuttoncss":"div[class='ng-trigger ng-trigger-animation ng-tns-c1-0 ui-dialog ui-confirmdialog ui-widget ui-widget-content ui-corner-all ui-shadow ng-star-inserted']>div:last-child>p-footer>button:last-child",
+        "nobuttoncss":"div[class='ng-trigger ng-trigger-animation ng-tns-c1-0 ui-dialog ui-confirmdialog ui-widget ui-widget-content ui-corner-all ui-shadow ng-star-inserted']>div:last-child>p-footer>button:first-child"
+    },
+    "WorkplantEQ_Renamecode":{
+        "typecodefiltercss":"[placeholder='Code']",
+        "elementradiobuttoncss":"table.ui-table-scrollable-body-table>tbody>tr>td:first-child",
+        "renamebtntext":"N=Rename",
+        "newQEcodecss":"#newPlantEquipmentCode",
+        "renameconfirm_yesbuttoncss":"div[class='ui-dialog-footer ui-widget-content ng-tns-c1-0 ng-star-inserted']>p-footer>button:last-child",
+        "renameconfirm_nobuttoncss":"div[class='ui-dialog-footer ui-widget-content ng-tns-c1-0 ng-star-inserted']>p-footer>button:first-child",
+        "rename_continueBtntxt":"Continue"
+    },
+
+    "WorkplantEQ_DisplayEQ":{
+        "typecodefiltercss":"[placeholder='Code']",
+        "elementradiobtncss":"table.ui-table-scrollable-body-table>tbody>tr>td:first-child",
+        "displaybtntext":"5=Display"
+    },
+
+    "workplantEQ_AddReading":{
+        "typecodefiltercss":"[placeholder='Code']",
+        "elementradiobtncss":"table.ui-table-scrollable-body-table>tbody>tr>td:first-child",
+        "Add_readingBtntxt":"A=Add Reading",
+        "Readingtypedrpid":"readingType",
+        "Readingtypeoptioncss":"#readingType>option",
+        "readingvalueid":"readingValue",
+        "Yesbuttoncss":"div[class='ng-trigger ng-trigger-animation ng-tns-c1-1 ui-dialog ui-confirmdialog ui-widget ui-widget-content ui-corner-all ui-shadow ng-star-inserted']>div:last-child>p-footer>button:last-child",
+        "Nobuttoncss":"div[class='ng-trigger ng-trigger-animation ng-tns-c1-1 ui-dialog ui-confirmdialog ui-widget ui-widget-content ui-corner-all ui-shadow ng-star-inserted']>div:last-child>p-footer>button:first-child"
+    },
+
+    "BuildEQ_mainpage":{
+     "readingdatecss":"input[class='ng-tns-c6-4 ui-inputtext ui-widget ui-state-default ui-corner-all ng-star-inserted']",
+     "centrecodename":"centreCodeKey",
+     "paratextcss":"div[class='form-group col-md-80']>p",
+     "Nobuttoncss":"div[class='ui-dialog-footer ui-widget-content ng-tns-c1-1 ng-star-inserted']>p-footer>button:first-child",
+     "Yesbuttoncss":"div[class='ui-dialog-footer ui-widget-content ng-tns-c1-1 ng-star-inserted']>p-footer>button:last-child",
+     "WrongDatemsgcss":"div[class='ui-growl-message']>p",
+     "Errormsgcss":"span[class='ui-growl-title']"
+    }
+}

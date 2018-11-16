@@ -1,0 +1,67 @@
+{
+    "mainpage":{
+        "title":"Australian Wool Handlers",
+        "Heading":"Menu Selection"
+    },
+
+    "WorkplantEQ_display":{
+        "headingtext":"Work Plant Equipment",
+        "regioncodetoselect":"C",
+        "screentxt":"WSPLTWCDFK DISPLAY"
+    },
+    "WorkplantEQ_AddEQcode":{
+        "pageheadingtext":"Add Plant Equipment",
+        "addpageheading":"Edit Plant Equipment Details",
+        "screentext1":"WSPLTWFPVK ENTER",
+        "screentext2":"WSPLTWEE1K ADD",
+        "AddEQcode":"AWHDEMO1",
+        "Typecode":"OWND",
+        "center":"G",
+        "leasor":"BARR",
+        "segmentcode":"03",
+        "Description":"This is test comment",
+        "Readingdate":"12/10/20"
+    },
+    "WorkplantEQ_EditEQcode":{
+        "EditEQCode":"AWHDEMO1",
+        "DescriptionComment":"This is test comment 2",
+        "leasemaxunitval":40000,
+        "EditscreenName":"WSPLTWEE1K CHANGE",
+        "Editpageheadingtxt":"Edit Plant Equipment Details"
+    },
+
+    "WorkplantEQ_renameEQcode":{
+        "RenameEQcode":"AWHDEMO1",
+        "renamepagetitle":"Rename Plant Equipment",
+        "NewrenameEQcode":"AWHDEMO2",
+        "Renamepagescreentxt":"WSPLTNMPVK ENTER"
+    },
+
+    "WorkplantEQ_displayEQcode":{
+        "DisplayEQcode":"AWHDEMO1",
+        "Displaypageheading":"Display Plant Equipment Details",
+        "Displaypagescreentxt":"WSPLTW9D1K DISPLAY"
+    },
+
+    "Workplant_addReading":{
+        "addreadingcode":"AWHDEMO1",
+        "addreadingheadingtxt":"Add Equipment Readings",
+        "addreadingscreenNametxt":"WSPLTWVPVK ENTER",
+        "Readingtypecode":"ST",
+        "Readingvalue":50000
+    },
+    "BuildReadingbatch_Display":{
+        "pageheadingtext":"Build Reading Batch",
+        "screentxt":"WSPLTWPPVK ENTER"
+    },
+    "BuildReadingbatch_Addbatch":{
+        "Readingdate":"19/09/18",
+        "InvalidReadingDate":"abc123",
+        "regioncode":"N",
+        "Centercode":"C",
+        "wrongCentercode":"Z",
+        "dateErrormsg":"Invalid Date",
+        "Regionerrormsg":"Please select Region Code",
+        "centerErrormsg":"AWH Region/Centre not found"
+    }
+}

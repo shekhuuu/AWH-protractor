@@ -1,0 +1,53 @@
+{
+  "uid" : "cda89cafc31f777a",
+  "name" : "Verify prescence of paragraph on menu three main page",
+  "fullName" : "Menu three main Add batch Test suite.Verify prescence of paragraph on menu three main page",
+  "historyId" : "32a10fc0d5a3123bf59c8237d5f83084",
+  "time" : {
+    "start" : 1542200456368,
+    "stop" : 1542200456434,
+    "duration" : 66
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Menu three main Add batch Test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "Menu three main Add batch Test suite"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify prescence of paragraph on menu three main page"
+  }, {
+    "name" : "package",
+    "value" : "Menu three main Add batch Test suite"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "b9cb0517bf45091f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1542199753495,
+        "stop" : 1542199753568,
+        "duration" : 73
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "cda89cafc31f777a.json",
+  "parameterValues" : [ ]
+}

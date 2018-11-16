@@ -1,0 +1,79 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1542200456434' stop='1542200462410'>
+    <name>Menu three main Add batch Test suite =>Field operations Test suite</name>
+    <title>Menu three main Add batch Test suite =>Field operations Test suite</title>
+    <test-cases>
+        <test-case start='1542200456434' status='passed' stop='1542200456459'>
+            <name>Verify empty submit on main page of menu three</name>
+            <title>Verify empty submit on main page of menu three</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1542200456459' status='passed' stop='1542200456929'>
+            <name>Verify date validation message in the empty submit case</name>
+            <title>Verify date validation message in the empty submit case</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1542200456929' status='passed' stop='1542200457173'>
+            <name>Verify batch submission on main page of menu three by entering invalid value in Reading date field</name>
+            <title>Verify batch submission on main page of menu three by entering invalid value in Reading date field</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1542200457173' status='passed' stop='1542200457658'>
+            <name>Verify Date validation message displayed for entering invalid value in Reading date field</name>
+            <title>Verify Date validation message displayed for entering invalid value in Reading date field</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1542200457658' status='passed' stop='1542200457890'>
+            <name>Verify batch submission on main page of menu three by entering valid reading date only</name>
+            <title>Verify batch submission on main page of menu three by entering valid reading date only</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1542200457890' status='passed' stop='1542200458306'>
+            <name>Verify region code error message</name>
+            <title>Verify region code error message</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1542200458306' status='passed' stop='1542200458757'>
+            <name>Verify batch submission on main page of menu three by entering non-existing center code value</name>
+            <title>Verify batch submission on main page of menu three by entering non-existing center code value</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1542200458757' status='passed' stop='1542200459161'>
+            <name>Verify non-existing center code validation message </name>
+            <title>Verify non-existing center code validation message </title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1542200459161' status='passed' stop='1542200462410'>
+            <name>Verify batch submission by entering valid values in all fields</name>
+            <title>Verify batch submission by entering valid values in all fields</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

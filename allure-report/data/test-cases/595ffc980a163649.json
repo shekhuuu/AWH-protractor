@@ -1,0 +1,53 @@
+{
+  "uid" : "595ffc980a163649",
+  "name" : "Verify navigation to menu three main screen",
+  "fullName" : "Menu three main Add batch Test suite.Verify navigation to menu three main screen",
+  "historyId" : "432c81a9df551d9ba20301b2e837cc9e",
+  "time" : {
+    "start" : 1542200448700,
+    "stop" : 1542200448851,
+    "duration" : 151
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Menu three main Add batch Test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "Menu three main Add batch Test suite"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify navigation to menu three main screen"
+  }, {
+    "name" : "package",
+    "value" : "Menu three main Add batch Test suite"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "a9d2cbcbed67421d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1542199745641,
+        "stop" : 1542199745796,
+        "duration" : 155
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "595ffc980a163649.json",
+  "parameterValues" : [ ]
+}

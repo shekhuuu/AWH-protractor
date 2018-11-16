@@ -1,0 +1,32 @@
+{
+  "name": "awhmenuframework",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "webdriver-update": "./node_modules/.bin/webdriver-manager update",
+    "webdriver-start": "./node_modules/.bin/webdriver-manager start",
+    "protractor-run": "./node_modules/.bin/protractor conf.js",
+    "update": "npm run webdriver-update",
+    "start": "npm run webdriver-start",
+    "allure": "node_modules/.bin/allure generate ./allure-results -c && allure open",
+    "test": "npm run protractor-run && npm run allure"
+  },
+  "dependencies": {
+    "@types/jasmine": "^2.8.9"
+  },
+  "devDependencies": {
+    "jasmine": "^3.2.0",
+    "protractor": "^5.4.1",
+    "typescript": "^3.1.3",
+    "jasmine-spec-reporter": "^4.2.1",
+    "@types/node": "^10.12.0",
+    "protractor-html-reporter": "^1.3.2",
+    "jasmine-reporters": "^2.3.2",
+    "winston": "^3.1.0",
+    "jasmine-allure-reporter": "^1.0.2",
+    "allure-commandline": "^2.7.0"
+  },
+  "author": "keshav dwivedi",
+  "license": "ISC"
+}

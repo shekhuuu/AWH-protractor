@@ -1,0 +1,45 @@
+{
+  "uid" : "1dff5e7ff0144bbe",
+  "name" : "Verify region code error message",
+  "fullName" : "Menu three main Add batch Test suite =>Field operations Test suite.Verify region code error message",
+  "historyId" : "be4ceefce42ef2f2f14e0329981b3f31",
+  "time" : {
+    "start" : 1542200457890,
+    "stop" : 1542200458306,
+    "duration" : 416
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Menu three main Add batch Test suite =>Field operations Test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "Menu three main Add batch Test suite =>Field operations Test suite"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify region code error message"
+  }, {
+    "name" : "package",
+    "value" : "Menu three main Add batch Test suite =>Field operations Test suite"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "1dff5e7ff0144bbe.json",
+  "parameterValues" : [ ]
+}
