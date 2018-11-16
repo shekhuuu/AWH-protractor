@@ -86,5 +86,11 @@
      "Yesbuttoncss":"div[class='ui-dialog-footer ui-widget-content ng-tns-c1-1 ng-star-inserted']>p-footer>button:last-child",
      "WrongDatemsgcss":"div[class='ui-growl-message']>p",
      "Errormsgcss":"span[class='ui-growl-title']"
+    },
+
+    "WorkReadingBatches_WrkEquipRead":{
+    "enterReadingCss":"button[class='ui-button-secondary ui-button ui-widget ui-state-default ui-corner-all ui-button-text-only']:first-child",
+    "reprintReadingCss":"button[class='ui-button-secondary ui-button ui-widget ui-state-default ui-corner-all ui-button-text-only']:last-child",
+    "centreCodeCss":"#centreCodeKey"
     }
 }

@@ -63,5 +63,20 @@
         "dateErrormsg":"Invalid Date",
         "Regionerrormsg":"Please select Region Code",
         "centerErrormsg":"AWH Region/Centre not found"
-    }
+    },
+     "WorkReadingBatches_WrkEquipRead":{
+         "leftText":"WSPLTWQDFK DISPLAY",
+         "screenText":"Wrk Equipment Readings",
+         "regionCodeToSelect":"S",
+         "toggleText":"Completed",
+         "centerText":"All Centres",
+         "regionErrMsgText":"Please select Region Code"
+     },
+     "WorkReadingBatches_AddReading":{
+        "leftText":"WSPLTWQDFK DISPLAY",
+        "screenText":"Equipment Readings",
+        "textBatchNo":"Batch No.",
+        "textCentre":"Centre",
+        "textReadingdate":"Reading Date"
+     }
 }
